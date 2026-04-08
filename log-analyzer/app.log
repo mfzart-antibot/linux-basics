@@ -1,0 +1,6 @@
+INFO App started
+INFO User logged in
+WARNING Low memory
+ERROR Connection failed
+INFO Retry...
+ERROR Timeout
